@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3897e42d-f80a-4b02-82c0-b8c7c558078c" width="800"/>
+  <img src="https://github.com/user-attachments/assets/3897e42d-f80a-4b02-82c0-b8c7c558078c" width="500"/>
 </p>
 
 <p align="center">Welcome to my GitHub profile! 🚀</p>
